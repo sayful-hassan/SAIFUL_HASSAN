@@ -12,7 +12,7 @@ function Projects() {
       <div className={styles.projectsContainer}>
         <ProjectCard 
           src={viberr} 
-          link=""
+          link="https://github.com/sayful-hassan/Netflix"
           h3="Net Flix"
           p="Streaming App"
         />
