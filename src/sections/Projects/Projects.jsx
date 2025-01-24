@@ -1,8 +1,8 @@
 import styles from './ProjectsStyles.module.css'
 import viberr from '../../assets/netflix.jpg'
-import freshBurger from '../../assets/olx3.jpg'
-import hipsster from '../../assets/pinterest.png'
-import fitlift from '../../assets/notion 1.png'
+import freshBurger from '../../assets/01-01-25.png'
+import hipsster from '../../assets/EDIT.png'
+import fitlift from '../../assets/Flux_Dev_A_sleek_modern_3D_rendered_logo_for_a_professional_sh_1.jpeg'
 import ProjectCard from '../../common/ProjectCard'
 
 function Projects() {
@@ -14,25 +14,25 @@ function Projects() {
           src={viberr} 
           link="https://github.com/sayful-hassan/Netflix"
           h3="Net Flix"
-          p="Streaming App"
+          // p="Streaming App"
         />
         <ProjectCard 
           src={freshBurger} 
-          link=""
-          h3="OLX"
-          p="Buy & Sell everything"
+          link="https://github.com/sayful-hassan/ART-GALLERY"
+          h3="ART GALLERY"
+          // p="Buy & Sell everything"
         />
          <ProjectCard 
           src={hipsster} 
-          link=""
-          h3="Pinterest"
-          p="Inspire Creativity"
+          link="https://github.com/sayful-hassan/SAY--fmodels"
+          h3="MODELING AGENCY"
+          // p="Inspire Creativity"
         />
          <ProjectCard 
           src={fitlift} 
-          link=""
-          h3="Notion"
-          p="Complete journal"
+          link="https://github.com/sayful-hassan/SHOPPING-CART"
+          h3="SHOPPING CART"
+          // p="Complete journal"
         />
 
       </div>
