@@ -5,7 +5,7 @@ import hipsster from '../../assets/EDIT.png'
 import fitlift from '../../assets/Flux_Dev_A_sleek_modern_3D_rendered_logo_for_a_professional_sh_1.jpeg'
 import ProjectCard from '../../common/ProjectCard'
 
-function Projects() {
+function projects() {
   return (
     <section id='projects' className={styles.container}>
       <h1 className='sectionTitle'>Projects</h1>
@@ -40,4 +40,4 @@ function Projects() {
   )
 }
 
-export default Projects
+export default projects

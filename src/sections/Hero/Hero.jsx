@@ -52,7 +52,7 @@ function Hero() {
           A tech enthusiast with a foundation in fashion design, now blending
           creativity and functionality as a front-end designer & developer.
         </p>
-        <a href='' download>
+        <a href='../../assets/saiful hassan.pdf' download>
             <button className='hover'>
                 Resume
             </button>
