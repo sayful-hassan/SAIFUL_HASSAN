@@ -9,7 +9,7 @@ import githubDark from '../../assets/github-dark.svg'
 import linkedinLight from '../../assets/linkedin-light.svg'
 import linkedinDark from '../../assets/linkedin-dark.svg'
 import { useTheme } from '../../common/ThemeContext'
-import '../../assets/saiful hassan.pdf'
+import cv from '../../assets/saiful hassan CV.pdf'
 
 function Hero() {
     const { theme, toggleTheme } =useTheme();
@@ -52,7 +52,7 @@ function Hero() {
           A tech enthusiast with a foundation in fashion design, now blending
           creativity and functionality as a front-end designer & developer.
         </p>
-        <a href='../../assets/saiful hassan.pdf' download>
+        <a href={cv} download>
             <button className='hover'>
                 Resume
             </button>
