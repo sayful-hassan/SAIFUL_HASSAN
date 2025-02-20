@@ -25,7 +25,7 @@ function Skills() {
            <SkillList src={checkMarkIcon} skill='HANDLEBARS'/>
            <SkillList src={checkMarkIcon} skill='PHOTOSHOP'/>
            <SkillList src={checkMarkIcon} skill='ILLUSTRATOR'/>
-           <SkillList src={checkMarkIcon} skill='FIREBASE'/>
+           <SkillList src={checkMarkIcon} skill='FIGMA'/>
         </div>
         <hr/>
 
