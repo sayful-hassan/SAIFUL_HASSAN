@@ -36,7 +36,7 @@ function Hero() {
       </div>
       <div className={styles.info}>
         <h1>SAIFUL HASSAN</h1>
-        <h2>Front-End Developer & Designer</h2>
+        <h2>Full stack Developer & Designer</h2>
         <span>
           <a href="https://twitter.com/" target="_blank">
             <img src={twitterIcon} alt="Twitter icon" />
@@ -50,7 +50,7 @@ function Hero() {
         </span>
         <p className={styles.description}>
           A tech enthusiast with a foundation in fashion design, now blending
-          creativity and functionality as a front-end designer & developer.
+          creativity and functionality as a full stack developer & designer.
         </p>
         <a href={cv} download>
             <button className='hover'>
