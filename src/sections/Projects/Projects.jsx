@@ -2,7 +2,7 @@ import styles from './ProjectsStyles.module.css'
 import netflix from '../../assets/netflix.jpg'
 import artGallery from '../../assets/01-01-25.png'
 import fmodels from '../../assets/About page (1).png'
-import fitlift from '../../assets/Flux_Dev_A_sleek_modern_3D_rendered_logo_for_a_professional_sh_1.jpeg'
+import sayfStore from '../../assets/Flux_Dev_A_sleek_modern_3D_rendered_logo_for_a_professional_sh_1.jpeg'
 import ProjectCard from '../../common/ProjectCard'
 import Scalnova from '../../assets/Scalnova1.jpg'
 
@@ -27,8 +27,8 @@ function Projects() {
           h3="MODELING AGENCY"
         />
          <ProjectCard 
-          src={fitlift} 
-          link="https://github.com/sayful-hassan/SHOPPING-CART"
+          src={sayfStore} 
+          link="https://github.com/sayful-hassan/SAYF"
           h3="SHOPPING CART"
         />
         <ProjectCard 
