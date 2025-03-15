@@ -9,7 +9,7 @@ import githubDark from '../../assets/github-dark.svg'
 import behanceLight from '../../assets/Behance-light.svg'
 import behanceDark from '../../assets/Behance-dark.svg'
 import { useTheme } from '../../common/ThemeContext'
-import cv from '../../assets/saiful hassan CV.pdf'
+import cv from '../../assets/Saiful-hassan.CV.pdf'
 
 function Hero() {
     const { theme, toggleTheme } =useTheme();
